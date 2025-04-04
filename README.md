@@ -6,9 +6,13 @@ Projeto prático de laborátorio para o Bootcamp Avanade da DIO, fiz uma analís
 ![WhatsApp Image 2025-04-04 at 15 08 50](https://github.com/user-attachments/assets/09dec641-ac6d-4731-88bf-5d6f45a1ef11)
 
 Após importado o arquivo .txt ou preenchido o campo textual com o texto desejado, basta clicar em Run e o resultado será exibido junto com a analise textual da IA, conforme deixo nas imagens abaixo: 
+
 ![WhatsApp Image 2025-04-04 at 12 13 47](https://github.com/user-attachments/assets/b52e08a6-3132-49cc-8796-450375753788)
+
 ![WhatsApp Image 2025-04-04 at 12 13 47 (1)](https://github.com/user-attachments/assets/82cbcc08-3731-4807-b5d9-53f4bc11fff4)
+
 ![WhatsApp Image 2025-04-04 at 12 13 47 (2)](https://github.com/user-attachments/assets/1d5a12d4-5a9c-4286-82ef-d8ec6f19faa8)
+
 ![WhatsApp Image 2025-04-04 at 12 13 47 (3)](https://github.com/user-attachments/assets/0c0ae717-4e6c-4711-9ec2-903424d0a467)
 
 
